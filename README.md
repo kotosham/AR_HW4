@@ -1,4 +1,4 @@
-Here is the code for homework #4 on advanced robotics.
+Here is the code for assignment#4 on Advanced Robotics.
 Main python files:
 - calibration.py
 - detection_and_disp_map.py
